@@ -103,5 +103,5 @@ theme: aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/chenqifrog/chenqifrog.github.io
+  repo: git@github.com:chenqifrog/chenqifrog.github.io.git
   branch: gh-pages
